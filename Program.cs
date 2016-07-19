@@ -16,6 +16,11 @@ namespace Task_5__Sroters_
         {
 
 
+		Console.Write("\nTest line_1!");
+		Console.Write("\nTest line_2!");
+		Console.Write("\nTest line_3!");
+		
+		
             bool answerYes = true;
             int chosenOption;
             string answer;
